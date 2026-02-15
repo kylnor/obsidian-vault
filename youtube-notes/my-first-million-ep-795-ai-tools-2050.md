@@ -1,17 +1,24 @@
 ---
-title: "My First Million Episode 795: AI Tools That Make You Feel Like 2050"
-type: youtube-notes
-date_processed: 2026-02-15
-video_date: 2026-02-13
-hosts: ["Sam Parr (@theSamParr)", "Shaan Puri (@ShaanVP)"]
-original_title: "5 AI Tools that make you feel like you're in 2050"
+title: "My First Million Episode 795: AI Tools That Make You Feel Like You're in 2050"
+date: 2026-02-13
+type: youtube-note
+podcast: My First Million
 episode: 795
-podcast: "My First Million"
-tags: ["ai-tools", "productivity", "voice-interfaces", "ai-agents", "business-tools", "notebookLM", "wispr-flow"]
-status: processed
+hosts: 
+  - Sam Parr (@theSamParr)
+  - Shaan Puri (@ShaanVP)
+tags:
+  - ai-tools
+  - productivity
+  - business
+  - voice-interfaces
+  - automation
+  - entrepreneurship
+source_url: ""
+processed_date: 2026-02-15
 ---
 
-# My First Million Episode 795: AI Tools That Make You Feel Like 2050
+# My First Million Episode 795: "This AI agent completes your To-Do list (plus 4 AI tools that'll blow you away)"
 
 ## Episode Info
 - **Date:** February 13, 2026
@@ -21,57 +28,49 @@ status: processed
 ## Key AI Tools Discussed
 
 ### 1. Do Anything (doanything.com)
-**What it is:** Enhanced UI for ChatGPT that bypasses OpenAI's interface
-
-**Key Features:**
-- Faster responses (no typing animations)
-- Persistent connection (no re-login required)
-- Searchable chat history
-- Local storage (browser-based, more private)
-- Free with your own OpenAI API key
-
-**Business Insight:** Shows the trend toward building better interfaces for existing AI tools
+- **What it is:** Enhanced UI for ChatGPT that bypasses OpenAI's interface
+- **Key Features:**
+  - Faster responses (no typing animations)
+  - Persistent connection (no re-login required)
+  - Searchable chat history
+  - Local storage (browser-based, more private)
+  - Free with your own OpenAI API key
+- **Business Insight:** Shows the trend toward building better interfaces for existing AI tools
 
 ### 2. NotebookLM by Google
-**What it is:** AI-powered research and learning assistant
-
-**Key Features:**
-- Creates flashcards, quizzes, and study aids from documents
-- Generates Audio Overviews (AI-generated podcast discussions from sources)
-- Video Overviews with animated slideshows
-- Learning Guide for personalized tutoring
-- Supports YouTube videos, PDFs, web pages as sources
-- Partnership with OpenStax for academic content
-
-**Business Applications:**
-- Knowledge management and training materials
-- Content transformation (documents to podcasts)
-- Research synthesis and analysis
-- Team learning and onboarding
+- **What it is:** AI-powered research and learning assistant
+- **Key Features:**
+  - Creates flashcards, quizzes, and study aids from documents
+  - Generates Audio Overviews (AI-generated podcast discussions from sources)
+  - Video Overviews with animated slideshows
+  - Learning Guide for personalized tutoring
+  - Supports YouTube videos, PDFs, web pages as sources
+  - Partnership with OpenStax for academic content
+- **Business Applications:**
+  - Knowledge management and training materials
+  - Content transformation (documents to podcasts)
+  - Research synthesis and analysis
+  - Team learning and onboarding
 
 ### 3. Wispr Flow (wisprflow.ai)
-**What it is:** AI-powered voice dictation tool
-
-**Key Features:**
-- Superior voice-to-text accuracy compared to native systems
-- Works across applications
-- Real-time processing
-
-**Productivity Impact:**
-- Transforms how users input text, especially for emails and messaging
-- Represents the shift toward voice-first interfaces
-- Particularly effective for quick, ephemeral communications
+- **What it is:** AI-powered voice dictation tool
+- **Key Features:**
+  - Superior voice-to-text accuracy compared to native systems
+  - Works across applications
+  - Real-time processing
+- **Productivity Impact:** 
+  - Transforms how users input text, especially for emails and messaging
+  - Represents the shift toward voice-first interfaces
+  - Particularly effective for quick, ephemeral communications
 
 ### 4. Nebula Gaming Platform (nebula.gg)
-**What it is:** AI-enhanced gaming and cloud computing platform
-
-**Features:** Cloud-based gaming with AI mechanics and enhanced graphics
-**Business Model:** Subscription-based cloud gaming service
+- **What it is:** AI-enhanced gaming and cloud computing platform
+- **Features:** Cloud-based gaming with AI mechanics and enhanced graphics
+- **Business Model:** Subscription-based cloud gaming service
 
 ### 5. Sales Call Agent (AI-powered)
-**What it is:** AI agent that handles sales calls autonomously
-
-**Significance:** Represents the future of AI agents handling complex, multi-step business processes
+- **What it is:** AI agent that handles sales calls autonomously
+- **Significance:** Represents the future of AI agents handling complex, multi-step business processes
 
 ## Key Insights for Knowledge Management
 
@@ -109,6 +108,5 @@ status: processed
 - **Content Democratization:** AI will make it easier to create educational and training content
 - **Agent Economy:** AI agents will handle increasingly complex business processes autonomously
 
----
-
-**Note:** This episode represents a snapshot of early 2026 AI tool landscape, showing the rapid evolution from simple chatbots to sophisticated productivity and business automation tools.
+## Note
+This episode represents a snapshot of early 2026 AI tool landscape, showing the rapid evolution from simple chatbots to sophisticated productivity and business automation tools.
